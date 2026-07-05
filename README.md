@@ -8,14 +8,3 @@ This repository contains well-structured Java solutions for fundamental and adva
 - It will be regularly updated with new problems and solutions as I continue my learning journey.
 - The goal is to build a solid foundation for technical interviews and competitive programming using efficient and optimized Java code.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/shivanshjaiswal07/DSA/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/shivanshjaiswal07/DSA/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
